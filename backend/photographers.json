@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "contact": "john.doe@gmail.com",
+      "phone_number": 2515874512,
+      "event_types": ["wedding", "birthdays"],
+      "location": { "city": "Los Angeles", "state": "CA", "zip": "90001" }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "contact": "jane.smith@gmail.com",
+      "phone_number": 4695321412,
+      "event_types": ["sports", "wildlife"],
+      "location": { "city": "San Francisco", "state": "CA", "zip": "94101" }
+    },
+    {
+      "id": 3,
+      "name": "Joe Karma",
+      "contact": "joe.karma@gmail.com",
+      "phone_number": 4695567425,
+      "event_types": ["sports"],
+      "location": { "city": "Dallas", "state": "TX", "zip": "75024" }
+    },
+    {
+      "id": 4,
+      "name": "Josh Lan",
+      "contact": "josh.lan@gmail.com",
+      "phone_number": 3135407425,
+      "event_types": ["wildlife"],
+      "location": { "city": "Austin", "state": "TX", "zip": "78652" }
+    }
+  ]
